@@ -78,4 +78,4 @@ async def quote(ctx, tit):
 
 
 #insert your discord bot token here.
-bot.run('Nzg4NTAxNjM0NDk2ODU2MTI1.X9kbXw.PNOycaIBbjYWihTVSRM7sgrjGNM')
+bot.run('')
