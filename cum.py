@@ -10,7 +10,7 @@ import os
 #
 # 2.) Before adding to quotes dict, make sure message isn't equivalent to others.
 #
-# 3.)
+# 3.) Parse for endlines
 
 qf = './quotes.json'
 
